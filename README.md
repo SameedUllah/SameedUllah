@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/safi-ullah-ashfaq/">
-    <img src="https://img.shields.io/badge/SafiUllah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/sameedullah/">
+    <img src="https://img.shields.io/badge/SameedUllah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 # 💻 Tech Stack:
