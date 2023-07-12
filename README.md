@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/sameedullah/">
+<a href="https://www.linkedin.com/in/sameedullah/" target="_blank" >
     <img src="https://img.shields.io/badge/Sameed Ullah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
