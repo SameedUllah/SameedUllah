@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/sameedullah/" target="_blank" >
-    <img src="https://img.shields.io/badge/Sameed Ullah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Sameed Ullah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
 </a>
 
 # 💻 Tech Stack:
