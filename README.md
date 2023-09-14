@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<br />
-
 # 💫 About Me:
 😇 I strongly believe in<br>Honesty<br>Collaboration<br>Ethics<br>Optimism<br>Spirituality<br><br>🤔 I’m open to help with<br>developing DApps with Web3<br>connecting AI stuff with web<br><br>🕸 I’ve worked in<br>Education<br>Healthcare<br>Fintech<br>MSP (Managed Service Provider)<br>
 
