@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Angular%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50">
+  </a>
+</p>
+
+<br />
+
 # 💫 About Me:
 😇 I strongly believe in<br>Honesty<br>Collaboration<br>Ethics<br>Optimism<br>Spirituality<br><br>🤔 I’m open to help with<br>developing DApps with Web3<br>connecting AI stuff with web<br><br>🕸 I’ve worked in<br>Education<br>Healthcare<br>Fintech<br>MSP (Managed Service Provider)<br>
 
